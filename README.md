@@ -1,6 +1,7 @@
 # miscellaneous
 
 Here you see an infrastructure to use for a systematic way of transforming a large set of words in a semantic space into a smaller set of clusters with meaningful interpretations, which can be useful for further analysis or understanding of the underlying semantic relationships among words.
+This is the approach that has been used for Huth et al (2016).
 
 
 **1. Projection into Common Semantic Space**: 
